@@ -66,8 +66,8 @@ Proposed Overall Methodology Diagram
 
 ## Conclusions
 
+Comparative Analysis of Sleep Apnea Detection Models:
 ![image](https://github.com/user-attachments/assets/7ddc3730-6e41-4d76-94cc-11bb97725d2d)
-Comparative Analysis of Sleep Apnea Detection Models
 
 ---
 ## Usage:
