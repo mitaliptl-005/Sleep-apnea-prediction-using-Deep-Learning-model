@@ -40,12 +40,16 @@ Proposed Overall Methodology Diagram
 - **CNN**: Extracts spatial features
 - **BiLSTM**: Captures temporal dependencies
 - **Dropout & Batch Normalization** for generalization
-  
+  ![image](https://github.com/user-attachments/assets/afc3bf3f-db16-46d1-bd67-66cc39c52b67)
+Model Architecture of CNN+biLSTM
 
 ### 2. ResNet1D
 
 - 1D Residual Network adapted for ECG sequences
 - Deep architecture with skip connections for robust training
+  ![image](https://github.com/user-attachments/assets/b737f1d3-8940-4cba-a314-4ee7875d021b)
+  Model Architecture of ResNet-1D
+
 
 ---
 
@@ -60,14 +64,16 @@ Proposed Overall Methodology Diagram
 
 ---
 
-## 📊 Evaluation Metrics
+## Conclusions
 
-- Accuracy, Precision, Recall, F1-Score
-- Confusion Matrix
-- ROC Curve
-- 3D Classification Report Visuals
+![image](https://github.com/user-attachments/assets/7ddc3730-6e41-4d76-94cc-11bb97725d2d)
+Comparative Analysis of Sleep Apnea Detection Models
 
----
 
-## 📦 Project Structure
+## Usage:
+- Get the pkl file
+- Download the dataset Apnea-ECG Database
+- Run Preprocessing.py to get a file named apnea-ecg.pkl
+- Run CNN+biLSTM.ipynb
+- Run ResNet1D.ipynb
 
