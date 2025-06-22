@@ -41,7 +41,7 @@ Proposed Overall Methodology Diagram
 - **BiLSTM**: Captures temporal dependencies
 - **Dropout & Batch Normalization** for generalization
   ![image](https://github.com/user-attachments/assets/afc3bf3f-db16-46d1-bd67-66cc39c52b67)
-Model Architecture of CNN+biLSTM
+  Model Architecture of CNN+biLSTM
 
 ### 2. ResNet1D
 
@@ -69,7 +69,7 @@ Model Architecture of CNN+biLSTM
 ![image](https://github.com/user-attachments/assets/7ddc3730-6e41-4d76-94cc-11bb97725d2d)
 Comparative Analysis of Sleep Apnea Detection Models
 
-
+---
 ## Usage:
 - Get the pkl file
 - Download the dataset Apnea-ECG Database
